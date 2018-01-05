@@ -116,12 +116,17 @@ p {
 .button {
   position:relative;
   left: 900px;
-  top: -137px;
+  top: -120px;
 }
 .button1 {
   position:relative;
   left: 900px;
-  top: -108px;
+  top: -110px;
+}
+.button2 {
+  position:relative;
+  left: 900px;
+  top: -90px;
 }
 span {
   font-weight: bold;
