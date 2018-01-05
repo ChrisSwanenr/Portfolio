@@ -51,9 +51,10 @@ body {
 .well {
 margin-right: 44%;
 position:relative;
-left: 140px;
+left: 245px;
 background-color: #3F729B;
 border-radius: 30px;
+color: white;
 }
 img {
   position: relative;
@@ -64,7 +65,6 @@ img {
 
 .projecttitle {
   color: white;
-  border-radius: 20px;
 }
 .panel-default > .panel-heading-custom {
   background-color: #3F729B;
