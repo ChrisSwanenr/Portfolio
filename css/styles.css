@@ -34,7 +34,7 @@ hr {
   border-radius: 20px;
 }
 body {
-  background: linear-gradient(to bottom, #1C2331, slategrey);
+  background: linear-gradient(to bottom, #1C2331, #708090);
   background-size: cover;
   font-family: "Arial" sans-serif;
 }
