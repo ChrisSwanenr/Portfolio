@@ -21,7 +21,8 @@ hr {
   font-size: 20px;
 }
 body {
-  background-color: #1C2331;
+  background: linear-gradient(to bottom, #1C2331, darkgrey);
+  background-size: cover;
 }
 
 
@@ -58,4 +59,8 @@ a {
 
 .projectlist a {
   color: skyblue;
+}
+
+html {
+  height: 100%;
 }
