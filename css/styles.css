@@ -21,8 +21,7 @@ hr {
   font-size: 20px;
 }
 body {
-  background-color: black;
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: #1C2331;
 }
 
 
@@ -32,14 +31,31 @@ body {
   background-size: cover;
 
 }.bodytext {
-  color: darkgrey;
+  color: white;
 }
 .well {
 margin-right: 44%;
 position:relative;
 left: 140px;
+background-color: #3F729B;
 }
 img {
   position: relative;
   left: 180px;
+}.projecttitle {
+  color: white;
+}
+.panel-default > .panel-heading-custom {
+  background-color: #3F729B;
+}
+.panel-title {
+  color: white;
+
+}
+a {
+  color: white;
+}
+
+.projectlist a {
+  color: skyblue;
 }
