@@ -2,13 +2,13 @@
 
 }
 
-@media screen
+@media screen {
   and (min-device-width:1200px)
   and (max-device-width:1600px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (min-resolution: 192dpi)
 
-
+}
 .title {
   position: relative;
   left: 110px;
@@ -51,7 +51,7 @@ body {
 .well {
 margin-right: 44%;
 position:relative;
-left: 245px;
+left: 147px;
 background-color: #3F729B;
 border-radius: 30px;
 color: white;
@@ -122,4 +122,7 @@ p {
   position:relative;
   left: 900px;
   top: -108px;
+}
+span {
+  font-weight: bold;
 }
