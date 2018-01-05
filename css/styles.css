@@ -106,3 +106,13 @@ ul {
 p {
   text-align: center;
 }
+.button {
+  position:relative;
+  left: 900px;
+  top: -137px;
+}
+.button1 {
+  position:relative;
+  left: 900px;
+  top: -108px;
+}
