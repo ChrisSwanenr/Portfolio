@@ -1,0 +1,45 @@
+.title {
+  position: relative;
+  left: 100px;
+}
+h2 {
+  text-align: center;
+}
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+.projectlist {
+  font-size: 20px;
+}
+.aboutmelist {
+  font-size: 20px;
+}
+body {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+}
+
+body {
+  background-size: cover;
+
+}.bodytext {
+  color: darkgrey;
+}
+.well {
+margin-right: 44%;
+position:relative;
+left: 140px;
+}
+img {
+  position: relative;
+  left: 180px;
+}
