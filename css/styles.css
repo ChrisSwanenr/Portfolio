@@ -60,7 +60,7 @@ img {
   position: relative;
   left: 180px;
   border-radius: 5px;
-  box-shadow: 5px 5px 20px black;
+  box-shadow: 10px 15px 100px 10px black;
 }
 
 .projecttitle {
@@ -130,4 +130,7 @@ p {
 }
 span {
   font-weight: bold;
+}
+.nav {
+  font-size: 25px;
 }
