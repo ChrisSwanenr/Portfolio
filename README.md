@@ -23,7 +23,8 @@ Open in atom.
 
 ## Authors
 
-* **Chris Swanner**
+* **Chris Swanner** - *Initial work* -
+[Chris Swanner](https://github.com/ChrisSwanenr)
 
 ## License
 
